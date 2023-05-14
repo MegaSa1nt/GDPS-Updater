@@ -1,6 +1,7 @@
 # GDPS Updater
 
 **This is GDPS Updater for my GDPS Client**
+
 https://github.com/MegaSa1nt/GDPS-Client
 
 How to build:
@@ -13,5 +14,3 @@ How to config it:
 2. Open "script.js"
 3. See first line
 4. Config it
-
-It uses JSZip
