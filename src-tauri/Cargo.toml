@@ -1,7 +1,7 @@
 [package]
-name = "gdps-client"
+name = "gdps-updater"
 version = "1.0.0"
-description = "Client for GDPS"
+description = "Updater for my client"
 authors = ["MegaSa1nt"]
 license = ""
 repository = ""
